@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "Tuurio/auth_samples",
+  "sourcePath": "auth_samples_astro",
+  "sourceSha": "af8b7d137bbdb9ac211233a19244e32d25ffeb43",
+  "templateId": "astro",
+  "managedFiles": [
+    {
+      "path": ".env.example",
+      "sha256": "c5f8f0d2d8329f403570df15a7332e231c474f997ee422f8e2ef79113fc124da"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "sha256": "39989eb96fd20521f79c4ac2dff887672efbdce599d5729872344b3aa3c4f39d"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "47160b9d7dd406ffcb7e848664f52609237942c87b0c88e64389180674386a7b"
+    },
+    {
+      "path": ".stackblitzrc",
+      "sha256": "f821aad5c3129fad9f8691d352883d3cc515e12d873739c1a0011787d3a9f63d"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "8cf4c9ae92cc1b75848e8026175daa844e64732b068518c5a5b5b42724243c5c"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "README.md",
+      "sha256": "89caca02cbc1a0f55f3905148c68bd4301673e0e533feefb5259002c062d41f6"
+    },
+    {
+      "path": "astro.config.mjs",
+      "sha256": "59da01929c2115bcd91fe1cdda8c32b816d014c664bb7593b5d282a7a838b348"
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "f555192a2480392a4d2c9ac67bb3134c939b57ea385324f03fb887de4468ba1f"
+    },
+    {
+      "path": "package.json",
+      "sha256": "4e9ac4b07b489ff6def29b2e85960c38f3eb229334287b0e460bd034620adab1"
+    },
+    {
+      "path": "src/env.d.ts",
+      "sha256": "6063d5a3d21d31444cd2546f0a6d3751cbdea4cb2194b2638f0dba5fb501390d"
+    },
+    {
+      "path": "src/lib/server/oidc.ts",
+      "sha256": "a3eb3a3c686e4f70ffc21c3add48801abe5ef6c4b24dff46d4dd989bc8d44545"
+    },
+    {
+      "path": "src/middleware.ts",
+      "sha256": "a27cdce0f5149a46396b4c7d17ae171dedf09392047b6e408033d9927ff361f6"
+    },
+    {
+      "path": "src/pages/auth/callback.ts",
+      "sha256": "1cd886a14f3e1710bb01145ff13d9802e879327e7f50ef03540e41817e79b13e"
+    },
+    {
+      "path": "src/pages/auth/login.ts",
+      "sha256": "5259208a043ccf153012c4ff492b3cfc5c8f773e8d93a3512c0adb81fe05cb31"
+    },
+    {
+      "path": "src/pages/auth/logout.ts",
+      "sha256": "236fb69c6e1f48839614cc106dbc904b893b732f7298ab1c11197ceba4e9beac"
+    },
+    {
+      "path": "src/pages/dashboard.astro",
+      "sha256": "28985905082227881d1605e8af776c5915fbd1f60c38302d2f71baa5442201da"
+    },
+    {
+      "path": "src/pages/index.astro",
+      "sha256": "4db9e1c8241dced36a5f8512cf959eb094c6d9a47b58f3d60e030b5be1ea7a44"
+    },
+    {
+      "path": "src/pages/logout/callback.ts",
+      "sha256": "bb1a4b9f6a0c4fbda57e62a9a6daa9592b984275e0e20e63e082be469734dd37"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "2a27dc67d7ae4ec9dedc1f3bee366c5a7f11eaa2af569db829e260daad96b8eb"
+    }
+  ]
+}
