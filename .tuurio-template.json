@@ -2,13 +2,21 @@
   "schemaVersion": 2,
   "sourceRepository": "Tuurio/auth_samples",
   "sourcePath": "auth_samples_astro",
-  "sourceSha": "fd87414e420b10fc0ca59d5552595d1b51be6230",
-  "packageSha256": "6d6afd52517f1fb10a7ecd28bd692787878ebcea76830f1a32ebd82aa39426f9",
+  "sourceSha": "ee751281bb9cedc2d269c3e21e6e0d544cf2cbf8",
+  "packageSha256": "e5dc752267ee042cd851bc6d74b176d27a368d73162389b28a204dfc4322e58f",
   "templateId": "astro",
   "managedFiles": [
     {
       "path": ".env.example",
       "sha256": "c5f8f0d2d8329f403570df15a7332e231c474f997ee422f8e2ef79113fc124da"
+    },
+    {
+      "path": ".github/social-preview.png",
+      "sha256": "c8cddabd00bbca9e3a6fe1c7546e3737e28705ab9efc7e636978b07cfe39e703"
+    },
+    {
+      "path": ".github/social-preview.svg",
+      "sha256": "6385367782fa18824d669d4dbf652db815d0262dbff508f9152ef10df32d4439"
     },
     {
       "path": ".github/workflows/verify.yml",
@@ -32,7 +40,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "89caca02cbc1a0f55f3905148c68bd4301673e0e533feefb5259002c062d41f6"
+      "sha256": "d4c109806a6f3f254abc429637d3ab0f605d3c3c43f7098b161026b2e7147c56"
     },
     {
       "path": "astro.config.mjs",
