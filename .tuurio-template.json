@@ -2,8 +2,8 @@
   "schemaVersion": 2,
   "sourceRepository": "Tuurio/auth_samples",
   "sourcePath": "auth_samples_astro",
-  "sourceSha": "ee751281bb9cedc2d269c3e21e6e0d544cf2cbf8",
-  "packageSha256": "e5dc752267ee042cd851bc6d74b176d27a368d73162389b28a204dfc4322e58f",
+  "sourceSha": "7e52e3bf428164ad36fd550011263ac9d6848761",
+  "packageSha256": "19d6b795a10d16f1678797ceb007511c90019525366e38dbe376d68fde83470d",
   "templateId": "astro",
   "managedFiles": [
     {
@@ -48,7 +48,7 @@
     },
     {
       "path": "package-lock.json",
-      "sha256": "db22ff5ef0269e01e0fdda65cd5a2b22e8db36e9d4af403690b5bde773a5e998"
+      "sha256": "1161f0bdad49682833ce212b91433c3da82f6d8855349d1185ef39095126d1c0"
     },
     {
       "path": "package.json",
